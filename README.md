@@ -6,7 +6,7 @@ ChatGPT的强大已经无需赘言！无论你是想体验AI的无限可能，�
 
 别担心！这篇指南将为你一站式解决这两个关键问题，让你轻松玩转ChatGPT！
 
-官网：[https://chat.openai.com](https://chat.openai.com)（20美元，折合人民币大概145元）
+官网：[https://chat.openai.com](https://chat.openai.com)（20美元，折合人民币大概145元）   
 PLUS会员升级：[https://shop.gptbuy.store/](https://shop.gptbuy.store/)（代充平台，最简单便宜的方法，比自己瞎折腾的好！160元）
 
 **一、如何访问ChatGPT官网？ (`https://chat.openai.com`)**
